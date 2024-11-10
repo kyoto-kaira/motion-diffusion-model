@@ -1,0 +1,4 @@
+spacy==3.8.2
+smplx==0.1.28
+matplotlib==3.5.0
+numpy==1.21.5
